@@ -1,0 +1,44 @@
+# Github-markdown-cheat-sheet
+
+# How to write README.md in Github
+
+## Markdown Syntax
+###Heading:
+*#* heading 1
+*##* heading 2
+*###* heading 3
+*####* heading 4
+*#####* heading 5
+*######* heading 6
+
+
+## Bold text 
+In Markdown, we use “**…**” to make the text bold: **This will be Bold**
+
+## Italic text 
+In Markdown, we use “*….*” to make the text italic: *This will be italic*
+
+## Italic and bold text 
+In Markdown, we use “***….***” to make the text italic: ***This will be both bold and italic***
+
+## Lists 
+###Ordered List
+In markdown, we can easily create an ordered list in the way given below.:
+1. item 1
+2. item 2
+3. item 3
+   1. sub-item 1 of item 3
+   2. sub-item 2 of item 3
+
+###UnOrdered List 
+In markdown, we can easily create an unordered list in the way given below:
+* item 1
+* item 2
+* item 3
+   * sub-item 1 of item 3
+   * sub-item 2 of item 3
+
+## Links 
+In markdown, we can create links using “[Name of Website](address of the website)”: [Github](https://www.github.com)
+
+## Images
